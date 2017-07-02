@@ -1,0 +1,299 @@
+.icon {
+  background-image: url('../pb_weapons.png');
+  background-repeat: no-repeat;
+  height: 28px;
+  width: 100px;
+}
+
+/*
+vertical 30px per item
+horizontal 70px per item
+*/
+/*SG550 Ext.*/
+.sg550ext{
+	background-position: -425px -60px;
+}
+/*AK-47 Ext.*/
+.ak47ext{
+	background-position: 0px 0px;
+}
+/*M4A1 Ext.*/
+.m4a1ext{
+	background-position: -210px -30px;
+}
+/*K-2*/
+.k2{
+	background-position: 0px -30px;
+}
+/*F2000 Ext.*/
+.f2000ext{
+	background-position: -210px -150px;
+}
+/*AK-47 G.*/
+.ak47g{
+	background-position: -220px 0px;
+}
+/*M4A1 S.*/
+.m4a1s{
+	background-position: -320px -30px;
+}
+/*K201*/
+.k201{
+	background-position: 0px -180px; 
+}
+/*G36C Ext.*/
+.g36cext{
+	background-position: -110px -180px; 
+}
+/*SG550 S.*/
+.sg550s{
+	background-position: 0px -90px; 
+}
+/*AK SOPMOD*/
+.aksopmod{
+	background-position: -110px -360px; 
+}
+/*AK-47 Sl.*/
+.ak47sl{
+	background-position: 0px -390px;
+}
+/*SG550 Sl.*/
+.sg550sl{
+	background-position: 0px -420px; 
+}
+/*M4A1 Sl.*/
+.m4a1sl{
+	background-position: -215px -450px; 
+}
+/*M4A1 W.*/
+.m4a1w{
+	background-position: -320px -390px; 
+}
+/*M4A1 G.*/
+.m4a1g{
+	background-position: -215px -415px; 
+}
+/*AK-47 Sl.+*/
+.ak47slp{
+	background-position: 0px -390px;
+}
+/*SG550 MB.+*/
+.sg550mbp{
+	background-position: -320px -415px;
+}
+/*G36C Sl.*/
+.g36csl{
+	background-position: -535px 0px;
+}
+/*SG550 S. D.*/
+.sg550sd{
+	background-position: 0px -90px;
+}
+/*AUG A3*/
+.auga3{
+	background-position: 0px -505px;
+}
+/*AUG A3 G.*/
+.auga3g{
+	background-position: -750px -60px;
+}
+/*AK SOPMOD C.*/
+.aksopmodc{
+	background-position: -645px -90px; 
+}
+/*M4 C. A.R. Lv.1*/
+.m4carlv1{
+	background-position: -645px -150px; 
+}
+/*M4 C. A.R. Lv.2*/
+.m4carlv2{
+	background-position: -535px -120px; 
+}
+/*M4 C. A.R. Lv.3*/
+.m4carlv3{
+	background-position: -640px -120px;
+}
+/*M4 C. A.R. Lv.4*/
+.m4carlv4{
+	background-position: -750px -120px; 
+}
+/*AUG A3 Black*/
+.auga3black{
+	background-position: -860px -295px; 
+}
+/*FAMAS G2 Sniper*/
+.famasg2sniper{
+	background-position: -535px -360px; 
+}
+/*FAMAS G2 M203*/
+.famasg2m203{
+	background-position: -645px -360px; 
+}
+/*FAMAS G2 Commando*/
+.famasg2commando{
+	background-position: -855px -330px; 
+}
+/*FAMAS G2*/
+.famasg2{
+	background-position: -535px -360px;
+}
+/*Pindad SS2-V4 PARA SNIPER*/
+.pindadss2v4parasniper{
+	background-position: -645px -325px; 
+}
+/*VZ. 52*/
+.vz52{
+	background-position: -750px -385px;
+}
+/*AK - 47 Full Custom*/
+.ak47fullcustom{
+	background-position: -535px -415px;
+}
+/*Pindad SS2-V4 Para Sniper Gold*/
+.pindadssv4parasniperg{
+	background-position: -1395px -30px;
+}
+/*FAMAS G2 Commando ESport*/
+.famasg2commandoesport{
+	background-position: -1390px 0px; 
+}
+/*AUG A3 E-Sport*/
+.auga3esport{
+	background-position: -1280px 0px; 
+}
+/*FAMAS G2 Commando GOLD*/
+.famasg2commandog{
+	background-position: -1500px -30px; 
+}
+/*AUG A3 BLUE*/
+.auga3blue{
+	background-position: -1285px -150px;
+}
+/*Scar H CQC*/
+.scarhcqc{
+	background-position: -1180px -418px;
+}
+/*AUG A3 IC*/
+.auga3ic{
+	background-position: -1070px -445px;
+}
+/*Desert Eagle*/
+.deserteagle{
+	background-position: -220px -209px; 
+}
+/*MK23 Ext.*/
+.mk23ext{
+	background-position: -110px -210px;
+}
+/*K-5*/
+.k5{
+	background-position: -430px -210px;
+}
+/*Desert Eagle Silver*/
+.deserteaglesl{
+	background-position: -1180px -358px; 
+}
+/*Colt Python*/
+.cpython{
+	background-position: -110px -505px;
+}
+/*Colt Python Gold+*/
+.cpythongp{
+	background-position: -965px -180px;
+}
+/*Glock 18*/
+.glock18{
+	background-position: -535px -175px; 
+}
+/*Taurus LV1*/
+.tauruslv1{
+	background-position: -540px -240px; 
+}
+/*Taurus LV2*/
+.tauruslv2{
+	background-position: -645px -240px;
+}
+/*Taurus LV3*/
+.tauruslv3{
+	background-position: -750px -240px;
+}
+/*Taurus LV4*/
+.tauruslv4{
+	background-position: -855px -240px;
+}
+/*Colt 45*/
+.colt45{
+	background-position: -110px -210px; 
+}
+/*IMI UZI 9MM*/
+.imiuzi9mm{
+	background-position: -750px -415px; 
+}
+/*HK 69*/
+.hk69{
+	background-position: -1075px -300px; 
+}
+/*P99 & HAK*/
+.p99nhak{
+	background-position: -110px -240px; 
+}
+/*P99 & HAK Silver*/
+.p99nhaksl{
+	background-position: -750px 0px;
+}
+/*Dual Handgun*/
+.dualhandgun{
+	background-position: 0px -240px; 
+}
+/*Dual Desert Eagle*/
+.dualdeserteagleg{
+	background-position: 0px -355pxว
+}
+/*Dual Desert Eagle Gold*/
+.dualdeserteagleg{
+	background-position: -530px -60px;
+}
+/*HK45 DUAL*/
+.hk45dual{
+	background-position: 0px -240px; 
+}
+/*M-7*/
+.m7{
+	background-position: -220px -240px; 
+}
+/*Amok Kukri*/
+.amokkukri{
+	background-position: -430px -300px;
+}
+/*Mini Axe*/
+.miniaxe{
+	background-position: -320px -330px;
+}
+/*M-7 Gold*/
+.m7gold{
+	background-position: -110px -390px; 
+}
+/*Machette GH5007*/
+.machettegh5007{
+	background-position: -860px -90px; 
+}
+/*Brass Knuckle*/
+.brassknuckle{
+	background-position: -750px -330px; 
+}
+/*Fang Blade*/
+.fangblade{
+	background-position: -860px -415px; 
+}
+/*Ballistic Knife*/
+.ballisticknife{
+	background-position: -1180px -90px; 
+}
+/*Dual Knife*/
+.dualknife{
+	background-position: 0px -270px; 
+}
+/*Bone Knife*/
+.boneknife{
+	background-position: -540px -385px; 
+}

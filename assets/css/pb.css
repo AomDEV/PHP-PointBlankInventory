@@ -1,0 +1,59 @@
+body{
+	background-color:#000;
+	color:#fff;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: 32.5% 32.5% 32.5%;
+  grid-gap: 5px;
+}
+.box{
+	border:1px solid #404340;
+	background-color:#181918;
+	color:#ffbc59;
+	padding:0px;
+	font-size:12px;
+}
+.box .padding{
+	padding:5px;
+}
+hr{
+	margin:0px;
+    border: 0;
+    height: 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+.weaponTitle{
+	padding-top:5px;
+}
+.detailFont{
+	color:#fff;
+}
+.nameFont{
+	color:#ffbc59;
+	margin-bottom: 5px;
+}
+.canvasWeapon{
+	position: relative;
+	height:80px;
+}
+.canvasWeapon div.icon {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+body::-webkit-scrollbar {
+    width: 0.5em;
+}
+ 
+body::-webkit-scrollbar-track {
+    background-color: #777777;
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: #212121;
+  outline: 1px solid slategrey;
+}
